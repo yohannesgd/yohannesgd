@@ -36,9 +36,6 @@ I'm a **Flutter Developer** passionate about building mobile apps that solve rea
 ### 🎓 CS Exit Exam Ethiopia
 A comprehensive exam preparation app for Computer Science students.
 
-[![GitHub stars](https://img.shields.io/github/stars/yohannesgd/cs-exit-exam-app-mob)](https://github.com/yohannesgd/cs-exit-exam-app-mob)
-[![Play Store](https://img.shields.io/badge/Play_Store-Live-green?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.yohannes.csexitexam)
-
 **Features:**
 - 1500+ practice questions
 - 31 subjects
