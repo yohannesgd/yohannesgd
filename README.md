@@ -1,14 +1,14 @@
 # 👋 Hello, I'm Yohannes Gurmu
 
-[![Flutter CI](https://github.com/yohannesgd/cs-exit-exam-app-mob/actions/workflows/flutter_ci.yml/badge.svg)](https://github.com/yohannesgd/cs-exit-exam-app-mob/actions/workflows/flutter_ci.yml)
-[![GitHub release](https://img.shields.io/github/release/yohannesgd/cs-exit-exam-app-mob.svg)](https://github.com/yohannesgd/cs-exit-exam-app-mob/releases)
-[![GitHub license](https://img.shields.io/github/license/yohannesgd/cs-exit-exam-app-mob)](https://github.com/yohannesgd/cs-exit-exam-app-mob/blob/main/LICENSE)
-[![Play Store](https://img.shields.io/badge/Google_Play-Live-green?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.yohannes.csexitexam)
-[![GitHub stars](https://img.shields.io/github/stars/yohannesgd/cs-exit-exam-app-mob)](https://github.com/yohannesgd/cs-exit-exam-app-mob/stargazers)
+### 🏆 Badges
 
 [![GitHub followers](https://img.shields.io/github/followers/yohannesgd?style=social)](https://github.com/yohannesgd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/yohannes-gurmu-dadi-70167b35a)
-[![Play Store](https://img.shields.io/badge/Google_Play-App-green?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.yohannes.csexitexam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yohannes-gurmu-dadi-70167b35a)
+[![GitHub stars](https://img.shields.io/github/stars/yohannesgd/cs-exit-exam-app-mob?style=social)](https://github.com/yohannesgd/cs-exit-exam-app-mob)
+[![Play Store](https://img.shields.io/badge/Google_Play-Live-green?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.yohannes.csexitexam)
+[![GitHub release](https://img.shields.io/github/release/yohannesgd/cs-exit-exam-app-mob.svg)](https://github.com/yohannesgd/cs-exit-exam-app-mob/releases)
+[![GitHub license](https://img.shields.io/github/license/yohannesgd/cs-exit-exam-app-mob)](https://github.com/yohannesgd/cs-exit-exam-app-mob/blob/main/LICENSE)
+[![Flutter CI](https://github.com/yohannesgd/cs-exit-exam-app-mob/actions/workflows/flutter_ci.yml/badge.svg)](https://github.com/yohannesgd/cs-exit-exam-app-mob/actions/workflows/flutter_ci.yml)
 
 ## 🚀 About Me
 
