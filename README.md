@@ -1,49 +1,177 @@
-# 👋 Hello, I'm Yohannes Gurmu
+# 👋 Hi, I'm Yohannes Gurmu
 
-### 🏆 Badges
+Full Stack Software Developer | Java | 
+JavaScript | Node.js | Express | MongoDB | 
+Flutter
 
-[![GitHub followers](https://img.shields.io/github/followers/yohannesgd?style=social)](https://github.com/yohannesgd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yohannes-gurmu-dadi-70167b35a)
-[![GitHub stars](https://img.shields.io/github/stars/yohannesgd/cs-exit-exam-app-mob?style=social)](https://github.com/yohannesgd/cs-exit-exam-app-mob)
-[![Play Store](https://img.shields.io/badge/Google_Play-Live-green?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.yohannes.csexitexam)
-[![GitHub release](https://img.shields.io/github/release/yohannesgd/cs-exit-exam-app-mob.svg)](https://github.com/yohannesgd/cs-exit-exam-app-mob/releases)
-[![GitHub license](https://img.shields.io/github/license/yohannesgd/cs-exit-exam-app-mob)](https://github.com/yohannesgd/cs-exit-exam-app-mob/blob/main/LICENSE)
-[![Flutter CI](https://github.com/yohannesgd/cs-exit-exam-app-mob/actions/workflows/flutter_ci.yml/badge.svg)](https://github.com/yohannesgd/cs-exit-exam-app-mob/actions/workflows/flutter_ci.yml)
+🇪🇹 Addis Ababa, Ethiopia
 
-## 🚀 About Me
+Welcome to my GitHub!
 
-I'm a **Flutter Developer** passionate about building mobile apps that solve real problems. I love creating clean, performant, and user-friendly applications.
+I'm a Full Stack Software Developer passionate about
+designing and building secure, scalable, and business-ready 
+web and mobile applications.I enjoy transforming ideas into real
+-world software by combining intuitive user experiences 
+with reliable backend systems and modern cloud technologies.
 
-📍 **Ethiopia**  
-💼 **Seeking Remote Software Developer Roles**  
-📱 **Published Developer on Google Play**
+My interests include backend development, REST API design, 
+authentication & security, cloud databases, mobile development, 
+and modern software engineering practices.
 
----
 
-## 🛠️ Skills
+🚀 Current Flagship Project
 
-| Category | Technologies |
-|----------|--------------|
-| **Mobile** | Flutter, Dart, Android, iOS |
-| **Backend** | Firebase, Node.js, SQLite |
-| **Tools** | Git, GitHub, VS Code, Android Studio |
-| **Languages** | Dart, Java, JavaScript, C++ |
+🛍 Oromo Cultural Fashion
 
----
+Where Oromo Tradition Meets Modern Elegance
 
-## 📱 Featured Projects
+A production-ready full-stack e-commerce platform 
+designed to showcase and sell Oromo cultural clothing 
+while providing a complete business management system.
 
-### 🎓 CS Exit Exam Ethiopia
-A comprehensive exam preparation app for Computer Science students.
 
-**Features:**
-- 1500+ practice questions
-- 31 subjects
-- Offline mode
-- Dark mode
-- Performance analytics
+Current Features
 
----
+🔐 Secure JWT Authentication
+👥 Customer Relationship Management (CRM)
+📦 Product & Inventory Management
+📷 Cloudinary Product Image Uploads
+📊 Sales Analytics Dashboard
+🎁 Coupon & Discount Engine
+🚚 Shipping & Order Tracking
+🔄 Returns & Refund Management
+💳 Chapa Payment Integration
+📧 Password Reset via Email
+🛡 Role-Based Admin Authorization
+☁ MongoDB Atlas Cloud Database
+📂 Git Version Control & GitHub Workflow
+
+
+📱 Other Projects
+
+🎓 CS Exit Exam Ethiopia
+
+A comprehensive Computer Science exam preparation 
+application featuring:
+
+1500+ practice questions
+31 Computer Science subjects
+Offline functionality
+Performance tracking
+Modern Flutter UI
+
+
+🚗 Driver Learning & Exam App
+
+A mobile learning application that helps students 
+prepare for driving license examinations with 
+interactive quizzes and offline support.
+
+
+🛠 Technology Stack
+
+Languages
+
+Java
+JavaScript (ES6+)
+Dart
+HTML5
+CSS3
+SQL
+
+Frontend
+
+HTML5
+CSS3
+JavaScript
+
+Backend
+
+Node.js
+Express.js
+REST APIs
+
+Database
+
+MongoDB Atlas
+Mongoose
+SQLite
+
+Mobile Development
+
+Flutter
+Android
+
+Authentication & Security
+
+JWT Authentication
+Password Hashing (bcrypt)
+Password Reset
+Authentication & Authorization
+
+Tools
+
+Git
+GitHub
+VS Code
+Android Studio
+Postman
+
+
+🌱 Currently Learning
+
+I'm continuously improving my skills in:
+
+Advanced Node.js
+Secure Authentication Systems
+Docker
+CI/CD Pipelines
+Cloud Deployment
+System Design
+Software Architecture
+
+
+💼 Professional Goals
+
+I enjoy building software that solves real business problems.
+
+Currently, I'm focusing on creating scalable full-stack applications while continuously improving my backend engineering and cloud development skills.
+
+I'm open to collaborating on exciting software projects and remote development opportunities.
+
+
+🏆 Certifications
+
+Google – Introduction to Angular
+SOLOLEARN – JavaScript
+SOLOLEARN – Python
+SOLOLEARN – HTML
+SOLOLEARN – CSS
+SOLOLEARN – Angular
+SOLOLEARN – Intermediate JavaScript
+SOLOLEARN – Intermediate Python
+Project Management Essentials Certificate
+
+
+📫 Connect With Me
+
+💼 LinkedIn
+
+www.linkedin.com/in/yohannes-gurmu
+
+💻 GitHub
+
+https://github.com/yohannesgd
+
+
+⭐ Thank You For Visiting
+
+Thank you for visiting my GitHub profile!
+
+If you like my work, feel free to explore my repositories, connect with me on LinkedIn, or reach out for collaboration opportunities.
+
+I'm always excited to learn new technologies, contribute to meaningful projects, and build software that creates value
+
 
 ## 📄 Resume
 
@@ -51,26 +179,3 @@ A comprehensive exam preparation app for Computer Science students.
 
 ---
 
-## 📫 Contact Me
-
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yohannesgd](https://linkedin.com/in/yohannesgd)
-- **GitHub:** [github.com/yohannesgd](https://github.com/yohannesgd)
-- **Play Store:** [CS Exit Exam App](https://play.google.com/store/apps/details?id=com.yohannes.csexitexam)
-
----
-
-## 🏆 Certifications
-
-- Flutter Development - *(In Progress)*
-- Google Associate Android Developer - *(Planned)*
-
----
-
-## 📊 GitHub Stats
-
-![Yohannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohannesgd&show_icons=true&theme=dark)
-
----
-
-⭐ **Feel free to connect with me!** I'm always open to collaboration and new opportunities.
